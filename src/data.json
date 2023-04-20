@@ -1,0 +1,204 @@
+{
+  "我的工具": [
+    {
+      "title": "二维码生成",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/tool/qrcode"
+    },
+    {
+      "title": "在线录屏",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/tool/screen-record"
+    },
+    {
+      "title": "cron表达式生成",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/tool/cron"
+    },
+    {
+      "title": "ip地址获取",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/ip"
+    },
+    {
+      "title": "timer",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/tool/timer"
+    },
+    {
+      "title": "幻灯片播放",
+      "icon": "https://yingming006.cn/images/logo.svg",
+      "desc": "",
+      "url": "https://yingming006.cn/dynamic-wallpaper"
+    }
+  ],
+  "AI工具": [
+    {
+      "title": "chatGPT",
+      "icon": "",
+      "desc": "chatGPT",
+      "url": "https://chat.openai.com/chat"
+    },
+    {
+      "title": "据意查句",
+      "icon": "https://static.bioitee.com/webstack/logos/gitee.webp",
+      "desc": "根据你输入描述的意思来查找相应的名言名句",
+      "url": "https://wantquotes.net/"
+    },
+    {
+      "title": "AI 工具合集",
+      "icon": "",
+      "desc": "AI 工具合集",
+      "url": "https://www.aitoolist.cn"
+    },
+    {
+      "title": "AiDraw",
+      "icon": "",
+      "desc": "关于使用 AI 绘画的 Wiki、翻译、教程与相关资源。主要内容涉及 Stable-Diffusion-WebUI",
+      "url": "https://guide.novelai.dev"
+    }
+  ],
+  "学术资源": [
+    {
+      "title": "iData-知识检索",
+      "icon": "",
+      "desc": "论文、期刊、会议检索",
+      "url": "https://www.cn-ki.net"
+    },
+    {
+      "title": "Sci-Hub",
+      "icon": "",
+      "desc": "",
+      "url": "https://sci-hub.se"
+    }
+  ],
+  "设计": [
+    {
+      "title": "Canva中文官网",
+      "icon": "",
+      "desc": "Canva可画_在线设计协作平台_平面设计作图软件_免费设计素材",
+      "url": "https://www.canva.cn"
+    },
+    {
+      "title": "标小智",
+      "icon": "",
+      "desc": "智能LOGO设计生成器",
+      "url": "https://www.logosc.cn"
+    }
+  ],
+  "API": [
+    {
+      "title": "网易云音乐api",
+      "icon": "",
+      "desc": "",
+      "url": "https://mu-api.yuk0.com/"
+    },
+    {
+      "title": "渣男：说话的艺术",
+      "icon": "https://lovelive.tools/icon.png",
+      "desc": "",
+      "url": "https://lovelive.tools/"
+    },
+    {
+      "title": "一言",
+      "icon": "https://hitokoto.cn/favicon.ico",
+      "desc": "提供一句话服务",
+      "url": "https://hitokoto.cn/"
+    }
+  ],
+  "博客": [
+    {
+      "title": "crossoverJie's Blog",
+      "icon": "https://crossoverjie.top/images/logo.svg",
+      "desc": "",
+      "url": "https://crossoverjie.top/"
+    },
+    {
+      "title": "柳婼 の blog",
+      "icon": "https://cdn1.liuchuo.net/wp-content/uploads/2018/08/liuchuo1.png",
+      "desc": "",
+      "url": "https://www.liuchuo.net"
+    },
+    {
+      "title": "科技爱好者周刊",
+      "icon": "",
+      "desc": "",
+      "url": "https://github.com/ruanyf/weekly"
+    }
+  ],
+  "隐私": [
+    {
+      "title": "10分钟邮箱",
+      "icon": "",
+      "desc": "",
+      "url": "https://10minutemail.net"
+    }
+  ],
+  "全网资源检索": [
+    {
+      "title": "56网盘搜索",
+      "icon": "",
+      "desc": "百度网盘、微盘、360网盘、华为网盘、QQ网盘、115网盘",
+      "url": "https://www.56wangpan.com"
+    },
+    {
+      "title": "找资源",
+      "icon": "",
+      "desc": "阿里网盘",
+      "url": "https://zhaoziyuan.la"
+    }
+  ],
+  "安卓": [
+    {
+      "title": "MIUI 官方ROM仓库",
+      "icon": "",
+      "desc": "",
+      "url": "https://roms.miuier.com/zh-cn"
+    },
+    {
+      "title": "MIUI历史版本",
+      "icon": "",
+      "desc": "小米各机型 MIUI 历史版本，刷机教程合集",
+      "url": "https://miuiver.com"
+    }
+  ],
+  "在线小游戏": [
+    {
+      "title": "adarkroom - 小黑屋",
+      "icon": "",
+      "desc": "",
+      "url": "https://yingming006.cn/game/adarkroom"
+    },
+    {
+      "title": "2048",
+      "icon": "",
+      "desc": "",
+      "url": "https://yingming006.cn/game/2048"
+    },
+    {
+      "title": "looptap",
+      "icon": "",
+      "desc": "",
+      "url": "https://yingming006.cn/game/looptap"
+    },
+    {
+      "title": "minesweeper",
+      "icon": "",
+      "desc": "",
+      "url": "https://yingming006.cn/game/minesweeper"
+    }
+  ],
+  "开源项目": [
+    {
+      "title": "Anonymous Chat Room",
+      "icon": "",
+      "desc": "一个开源的 Web 聊天软件，可以进行文字、语音聊天，并支持语音录屏。",
+      "url": "https://github.com/velor2012/anonymous-chat-room"
+    }
+  ]
+}
