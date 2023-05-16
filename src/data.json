@@ -2,39 +2,39 @@
   "我的工具": [
     {
       "title": "二维码生成",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/tool/qrcode"
+      "icon": "/images/logo.svg",
+      "desc": "二维码生成",
+      "url": "/tool/qrcode/"
     },
     {
       "title": "在线录屏",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/tool/screen-record"
+      "icon": "/images/logo.svg",
+      "desc": "在线录屏",
+      "url": "/tool/screen-record/"
     },
     {
       "title": "cron表达式生成",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/tool/cron"
+      "icon": "/images/logo.svg",
+      "desc": "cron表达式生成",
+      "url": "/tool/cron/"
     },
     {
       "title": "ip地址获取",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/ip"
+      "icon": "/images/logo.svg",
+      "desc": "ip地址获取",
+      "url": "/ip/"
     },
     {
       "title": "timer",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/tool/timer"
+      "icon": "/images/logo.svg",
+      "desc": "番茄时钟",
+      "url": "/tool/timer/"
     },
     {
       "title": "幻灯片播放",
-      "icon": "https://yingming006.cn/images/logo.svg",
-      "desc": "",
-      "url": "https://yingming006.cn/dynamic-wallpaper"
+      "icon": "/images/logo.svg",
+      "desc": "动态壁纸",
+      "url": "/dynamic-wallpaper/"
     }
   ],
   "AI工具": [
@@ -73,7 +73,7 @@
     {
       "title": "Sci-Hub",
       "icon": "",
-      "desc": "",
+      "desc": "Sci-Hub",
       "url": "https://sci-hub.se"
     }
   ],
@@ -95,13 +95,13 @@
     {
       "title": "网易云音乐api",
       "icon": "",
-      "desc": "",
+      "desc": "网易云音乐api",
       "url": "https://mu-api.yuk0.com/"
     },
     {
       "title": "渣男：说话的艺术",
       "icon": "https://lovelive.tools/icon.png",
-      "desc": "",
+      "desc": "一句话",
       "url": "https://lovelive.tools/"
     },
     {
@@ -115,19 +115,19 @@
     {
       "title": "crossoverJie's Blog",
       "icon": "https://crossoverjie.top/images/logo.svg",
-      "desc": "",
+      "desc": "技术博客",
       "url": "https://crossoverjie.top/"
     },
     {
       "title": "柳婼 の blog",
       "icon": "https://cdn1.liuchuo.net/wp-content/uploads/2018/08/liuchuo1.png",
-      "desc": "",
+      "desc": "数据结构与算法博客",
       "url": "https://www.liuchuo.net"
     },
     {
       "title": "科技爱好者周刊",
       "icon": "",
-      "desc": "",
+      "desc": "科技周刊",
       "url": "https://github.com/ruanyf/weekly"
     }
   ],
@@ -135,7 +135,7 @@
     {
       "title": "10分钟邮箱",
       "icon": "",
-      "desc": "",
+      "desc": "10分钟邮箱",
       "url": "https://10minutemail.net"
     }
   ],
@@ -157,7 +157,7 @@
     {
       "title": "MIUI 官方ROM仓库",
       "icon": "",
-      "desc": "",
+      "desc": "MIUI 官方ROM仓库",
       "url": "https://roms.miuier.com/zh-cn"
     },
     {
@@ -171,26 +171,26 @@
     {
       "title": "adarkroom - 小黑屋",
       "icon": "",
-      "desc": "",
-      "url": "https://yingming006.cn/game/adarkroom"
+      "desc": "adarkroom",
+      "url": "/game/adarkroom/"
     },
     {
       "title": "2048",
       "icon": "",
-      "desc": "",
-      "url": "https://yingming006.cn/game/2048"
+      "desc": "2048",
+      "url": "/game/2048/"
     },
     {
       "title": "looptap",
       "icon": "",
-      "desc": "",
-      "url": "https://yingming006.cn/game/looptap"
+      "desc": "looptap",
+      "url": "/game/looptap/"
     },
     {
       "title": "minesweeper",
       "icon": "",
-      "desc": "",
-      "url": "https://yingming006.cn/game/minesweeper"
+      "desc": "扫雷",
+      "url": "/game/minesweeper/"
     }
   ],
   "开源项目": [
