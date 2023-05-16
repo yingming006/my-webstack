@@ -1,47 +1,55 @@
 <template>
-  <!-- Card Section -->
-  <div class="max-w-8xl px-4 py-10 space-y-8 sm:px-6 lg:px-8 lg:py-12">
-    <div className="space-y-4" v-for="(value, key) in data" :key="key">
-      <h2
-        className="text-lg font-bold text-gray-900 dark:text-white sm:text-xl"
-      >
-        {{ key }}
-      </h2>
-      <!-- Grid -->
-      <div class="grid sm:grid-cols-2 lg:grid-cols-6 gap-8 sm:gap-6">
-        <!-- Card -->
-        <a
-          v-for="item in value"
-          class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800"
-          :href="item.url"
-        >
-          <div class="p-4 md:p-5">
-            <div class="flex">
-              <div style="width: 40px; height: 40px">
-                <img :src="item.icon" />
-              </div>
-              <div class="grow ml-5 text-left">
-                <h3
-                  class="group-hover:text-blue-600 font-semibold text-gray-800 dark:group-hover:text-gray-400 dark:text-gray-200"
-                >
-                  {{ item.title }}
-                </h3>
-                <p class="text-sm text-gray-500 line-clamp-1">
-                  {{ item.desc }}
-                </p>
-              </div>
-            </div>
+  <div
+    class="flex h-screen w-screen flex-col overflow-x-hidden bg-slate-50 text-black"
+  >
+    <nav
+      class="sticky top-0 left-0 z-10 w-full flex-none border-b border-slate-900/10 bg-white/80 backdrop-blur"
+    >
+      <div class="max-w-8xl mx-auto">
+        <div class="py-2 px-4">
+          <div class="relative flex h-10 items-center">
+            <a class="font-semibold text-black" href="/"
+              ><img src="/images/logo.svg" width="140" height="40" alt="icon"
+            /></a>
           </div>
-        </a>
-        <!-- End Card -->
+        </div>
       </div>
-      <!-- End Grid -->
+    </nav>
+    <div class="container mx-auto pb-10 pt-4">
+      <div class="flex w-full flex-col gap-y-4">
+        <div
+          class="flex flex-col gap-y-4 p-4"
+          v-for="(value, key) in data"
+          :key="key"
+        >
+          <div class="text-lg font-semibold text-black">{{ key }}</div>
+          <div class="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4">
+            <a v-for="item in value" :href="item.url">
+              <div
+                class="rounded-lg bg-white shadow-xl shadow-black/5 ring-1 ring-slate-700/10 h-full plausible-event-name=Tool+weekly-report"
+              >
+                <div class="group flex flex-col p-4">
+                  <div class="flex items-center gap-2">
+                    <span class="text-lg font-semibold text-black">{{
+                      item.title
+                    }}</span>
+                  </div>
+                  <span class="mt-4 text-sm text-gray-500">{{
+                    item.desc
+                  }}</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
+    <!-- <footer class="mt-auto flex w-full justify-center py-4">
+      <a href="https://beian.miit.gov.cn/" class="text-sm text-gray-400">沪ICP备19036898号-2</a>
+    </footer> -->
   </div>
-  <!-- End Card Section -->
 </template>
 
 <script setup>
 import data from "./data.json";
-console.log(data);
 </script>
